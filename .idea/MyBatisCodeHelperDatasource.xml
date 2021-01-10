@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MyBatisCodeHelperDatasource">
+    <option name="projectProfile">
+      <ProjectProfile>
+        <option name="addSerializeUid" value="true" />
+        <option name="generateService" value="true" />
+        <option name="javaMapperPackage" value="com.roc.study.mappers" />
+        <option name="javaMapperPath" value="$PROJECT_DIR$/java-basic-study/src/main/java" />
+        <option name="javaModelPackage" value="com.roc.study.pojo" />
+        <option name="javaModelPath" value="$PROJECT_DIR$/java-basic-study/src/main/java" />
+        <option name="lastDatabaseCrudChooseModuleName" value="java-basic-study" />
+        <option name="lombokDataAnnotation" value="true" />
+        <option name="modelAddToString" value="true" />
+        <option name="moduleNameToPackageAndPathMap">
+          <map>
+            <entry key="java-basic-study">
+              <value>
+                <UserPackageAndPathInfoByModule>
+                  <option name="javaMapperPackage" value="com.roc.study.mappers" />
+                  <option name="javaMapperPath" value="$PROJECT_DIR$/java-basic-study/src/main/java" />
+                  <option name="javaModelPacakge" value="com.roc.study.pojo" />
+                  <option name="javaModelPath" value="$PROJECT_DIR$/java-basic-study/src/main/java" />
+                  <option name="javaServicePackage" value="com.roc.study.mappers" />
+                  <option name="javaServicePath" value="$PROJECT_DIR$/java-basic-study/src/main/java" />
+                  <option name="xmlPackage" value="mappers" />
+                  <option name="xmlPath" value="$PROJECT_DIR$/java-basic-study/src/main/resources" />
+                </UserPackageAndPathInfoByModule>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="tableGenerateConfigs">
+          <map>
+            <entry key="public:teacher">
+              <value>
+                <TableGenerateConfig>
+                  <option name="generatedKey" value="" />
+                  <option name="javaModelName" value="Teacher" />
+                  <option name="moduleName" value="java-basic-study" />
+                  <option name="sequenceColumn" value="" />
+                  <option name="sequenceId" value="" />
+                  <option name="useActualColumnName" value="false" />
+                </TableGenerateConfig>
+              </value>
+            </entry>
+          </map>
+        </option>
+        <option name="xmlMapperPackage" value="mappers" />
+        <option name="xmlMapperPath" value="$PROJECT_DIR$/java-basic-study/src/main/resources" />
+      </ProjectProfile>
+    </option>
+  </component>
+</project>
